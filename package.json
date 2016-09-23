@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "request-bluebird",
   "version": "1.0.0",
   "description": "use blubird to build request",
   "main": "main.js",
